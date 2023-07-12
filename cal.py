@@ -11,10 +11,10 @@ elif(operator=='-'):
 
 elif(operator=='*'):
     total=num1-num2
-    print("total="+str(total))
+    print("total=",total)
 
 elif(operator=='/'):
     total=num1/num2
-    print("total="+ str(total))
+    print("total=",total)
 else:
     print("invalid input")
